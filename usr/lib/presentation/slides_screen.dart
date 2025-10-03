@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 
 class SlidesScreen extends StatefulWidget {
   const SlidesScreen({super.key});

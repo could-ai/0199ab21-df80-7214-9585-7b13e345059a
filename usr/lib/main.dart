@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
+import 'package:couldai_user_app/presentation/slides_screen.dart';
 
 void main() {
   runApp(const MyApp());
